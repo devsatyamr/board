@@ -9,5 +9,5 @@ Some points to note:
 
 •	Although the site is responsive but recommending you to open in both mobile and desktop. Because it is more optimized in desktop view.
 
-•	Link to the website: board.devsatyamray.com
+•	Link to the website: www.board.devsatyamray.com
 
