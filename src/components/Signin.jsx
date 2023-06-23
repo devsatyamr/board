@@ -45,13 +45,13 @@ const Signin = () => {
                         <label htmlFor="password" className="font-semibold font-lato text-xs leading-3">Password</label>
                         <input type="password" id="password" className="w-full h-8 px-3 text-sm font-medium rounded-lg border bg-slate-100" />
                         </div>
-                        <a href="www.abc.com" target="_blank" className=" text-blue-500 text-xs font-lato hover:text-blue-950 ">Forgot Password?</a>
+                        <a href=""  className=" text-blue-500 text-xs font-lato hover:text-blue-950 ">Forgot Password?</a>
                         <br />
                         <br />
                         <Link to="/Dashboard"><button type="submit" className="w-full h-8 bg-black hover:bg-white text-white hover:text-black font-medium  rounded-lg">Sign In</button></Link> 
                         </form>
                         
-                        <p className="mt-7 text-slate-400 text-xs font-lato text-center ">Don't have an account? <a href="abc.com" className="text-blue-500 text-xs font-lato hover:text-blue-950">Register here.</a></p>
+                        <p className="mt-7 text-slate-400 text-xs font-lato text-center ">Don't have an account? <a href="" className="text-blue-500 text-xs font-lato hover:text-blue-950">Register here.</a></p>
                         
                         </div>
                         
