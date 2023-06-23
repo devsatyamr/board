@@ -161,11 +161,12 @@ const Dashboard = () => {
         
         <div className="  md:w-full md:flex md:space-x-20">
         <div className="  w-full text-center  md:hidden  ">
-            <h1 className="font-montserrat font-bold text-3xl leading-10 tracking-normal  ">Board.</h1>
+            <h1 className="font-montserrat font-bold text-3xl leading-10 tracking-normal mr-2 ">Board.</h1>
         </div>
-          <div className=" flex-col md:hidden">
+          <div className=" flex-col md:hidden ">
+            
             <button
-              className=" p-5"
+              className=" p-5 ml-36"
               onClick={toggleMobileMenu}
             >
               <IoMenu size={30}/>
@@ -187,7 +188,7 @@ const Dashboard = () => {
         <div className="w-full bg-inherit">
         
         <nav className="container mx-auto md:flex items-center text-center justify-between py-4 px-6">
-          <div className="font-montserrat font-bold text-2xl leading-10 tracking-normal">Dashboard</div>
+          <div className="font-montserrat font-bold text-2xl leading-10 tracking-normal mr-2">Dashboard</div>
           <div className="flex items-center space-x-4">
             <div className="flex">
             <input
