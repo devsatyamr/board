@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  font-family: Montserrat;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 88px;
+  letter-spacing: 0em;
 }
 
 .App-logo {
